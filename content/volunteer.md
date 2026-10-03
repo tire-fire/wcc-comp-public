@@ -166,17 +166,6 @@ Ready to volunteer? Here's how:
     </div>
 </div>
 
-## Volunteer Testimonials
-
-> "Volunteering with WCCOMPS has been one of the most rewarding experiences of my career. Seeing students grow and succeed because of our work is incredibly fulfilling."  
-> **- Sarah Chen, Red Team Volunteer**
-
-> "The mentorship program allowed me to give back to the community while staying sharp with the latest security trends. My mentees have gone on to amazing careers, and I'm proud to have played a small part."  
-> **- Marcus Johnson, Mentor**
-
-> "As someone early in my career, volunteering as white team gave me exposure to competition operations and networking opportunities that accelerated my professional development."  
-> **- Alex Rivera, White Team Volunteer**
-
 ## Questions?
 
 Join our Discord server for more information.
