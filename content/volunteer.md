@@ -150,7 +150,7 @@ All volunteers receive:
 
 Ready to volunteer? Here's how:
 
-1. **Fill out our volunteer interest form** (link below)
+1. **Fill out our [2026-2027 volunteer interest form](https://forms.gle/XhZ2F787owN2sYiu8)**
 2. **Attend a volunteer orientation** session (online available)
 3. **Complete role-specific training** for your chosen position
 4. **Sign volunteer agreement** and code of conduct
@@ -160,8 +160,8 @@ Ready to volunteer? Here's how:
     <div class="card-body p-4">
         <h3>Apply to Volunteer</h3>
         <p class="mb-3">Join our team and start making a difference in cybersecurity education.</p>
-        <a href="mailto:volunteer@wccomps.org?subject=Volunteer Application" class="btn btn-light btn-lg">
-            <i class="bi bi-envelope"></i> Contact Us to Volunteer
+        <a href="https://forms.gle/XhZ2F787owN2sYiu8" class="btn btn-light btn-lg">
+            <i class="bi bi-clipboard-check"></i> 2026-2027 Volunteer Interest Form
         </a>
     </div>
 </div>
@@ -179,7 +179,7 @@ Ready to volunteer? Here's how:
 
 ## Questions?
 
-Contact our volunteer coordinator at **volunteer@wccomps.org** or join our Discord server for more information.
+Join our Discord server for more information.
 
 <div class="row g-4 mt-4">
     <div class="col-md-6">
