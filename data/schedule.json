@@ -49,12 +49,60 @@
       "event_type": "workshop"
     },
     {
-      "start_time": "2025-07-01T09:00:00",
-      "end_time": "2025-07-31T17:00:00",
-      "title": "HackerCamp 2025",
-      "description": "Month-long intensive summer cybersecurity training program for students.",
-      "url": "/competitions/hackercamp/",
-      "event_type": "camp"
+      "start_time": "2026-10-03T09:00:00",
+      "end_time": "2026-10-03T17:00:00",
+      "title": "WRCCDC & PRCCDC Invitational #1",
+      "description": "Open to any school, including schools that do not qualify for CCDC. Full active competition environment. $100 per event; first come, first served. Times are Pacific.",
+      "url": "/competitions/wrccdc/",
+      "event_type": "competition"
+    },
+    {
+      "start_time": "2026-10-31T09:00:00",
+      "end_time": "2026-10-31T17:00:00",
+      "title": "WRCCDC & PRCCDC Invitational #2",
+      "description": "Open to any school, including schools that do not qualify for CCDC. Full active competition environment. $100 per event; first come, first served. Times are Pacific.",
+      "url": "/competitions/wrccdc/",
+      "event_type": "competition"
+    },
+    {
+      "start_time": "2026-11-21T09:00:00",
+      "end_time": "2026-11-21T17:00:00",
+      "title": "WRCCDC & PRCCDC Invitational #3",
+      "description": "Open to any school, including schools that do not qualify for CCDC. Full active competition environment. $100 per event; first come, first served. Times are Pacific.",
+      "url": "/competitions/wrccdc/",
+      "event_type": "competition"
+    },
+    {
+      "start_time": "2027-01-09T09:00:00",
+      "end_time": "2027-01-09T17:00:00",
+      "title": "WRCCDC & PRCCDC Invitational #4",
+      "description": "Open to any school, including schools that do not qualify for CCDC. Full active competition environment. $100 per event; first come, first served. Times are Pacific.",
+      "url": "/competitions/wrccdc/",
+      "event_type": "competition"
+    },
+    {
+      "start_time": "2027-02-06T09:00:00",
+      "end_time": "2027-02-06T17:00:00",
+      "title": "WRCCDC Qualifier 2027",
+      "description": "Online qualifier for the Western Regional CCDC. Times are Pacific.",
+      "url": "/competitions/wrccdc/",
+      "event_type": "competition"
+    },
+    {
+      "start_time": "2027-02-20T09:00:00",
+      "end_time": "2027-02-20T17:00:00",
+      "title": "PRCCDC Potential Qualifier 2027",
+      "description": "Potential qualifier for the Pacific Rim CCDC. Free to enter. Times are Pacific.",
+      "url": "/competitions/prccdc/",
+      "event_type": "competition"
+    },
+    {
+      "start_time": "2027-03-26T09:00:00",
+      "end_time": "2027-03-27T17:00:00",
+      "title": "PRCCDC Regionals 2027",
+      "description": "Regional competition in Lacey, WA, followed by a job fair and awards on Mar 28. Daily hours expected to be 9 a.m. - 5 p.m. Pacific.",
+      "url": "/competitions/prccdc/",
+      "event_type": "competition"
     }
   ]
 }

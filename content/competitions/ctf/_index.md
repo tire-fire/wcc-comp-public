@@ -89,7 +89,6 @@ We host several CTF competitions throughout the year:
 CTF elements appear in our major competitions:
 - CCDC includes CTF-style injects and challenges
 - CIRCUS incorporates forensics puzzles
-- HackerCamp features daily CTF challenges
 
 ### Virtual Competitions
 
