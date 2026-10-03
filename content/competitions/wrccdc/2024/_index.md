@@ -5,7 +5,7 @@ description: "Western Regional Collegiate Cyber Defense Competition 2024 results
 
 ## WRCCDC 2024
 
-**Theme:** Financial Services Security
+**Theme:** Wobbly's World / Pasta & Playtime, a parody of Five Nights at Freddy's
 
 ### Dates
 
